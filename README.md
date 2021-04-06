@@ -1,8 +1,8 @@
 ### Hi there 👋,
 
-I'm Pedro! Welcome to my github space! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosouzax)
+I'm Pedro! Welcome to my GitHub space! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosouzax)
 
-- I'm a Electrical Engineering student ⚡:robot:
+- I'm an Electrical Engineering student ⚡:robot:
 - Interested in Data Science and Software Development 💻
 - Now, I'm working as Data Analyst Intern @ Citrosuco 🍊
 
