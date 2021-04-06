@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋,
 
-Welcome to my github space! [![Visits Badge](https://badges.pufler.dev/visits/pedrosouzax)](https://badges.pufler.dev)
+I'm Pedro! Welcome to my github space! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosouzax)
 
-
+- I'm a Electrical Engineering student ⚡:robot:
+- Interested in Data Science and Software Development 💻
+- Now, I'm working as Data Analyst Intern @ Citrosuco 🍊
 
 ## Get in touch
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/@pedrosouzax)
