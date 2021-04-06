@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my github space! <img src="https://camo.githubusercontent.com/8058e57b509656537d56865d86e100a4330b6275a066230293b2a879ee49fa58/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616e616c697669616672" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=pedorsouzax" style="max-width:100%;">
+Welcome to my github space! [![Visits Badge](https://badges.pufler.dev/visits/pedrosouzax/git-badges)](https://badges.pufler.dev)
+
+
 
 ## Get in touch
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/@pedrosouzax)
