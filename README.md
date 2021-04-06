@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github space! [![Visits Badge](https://badges.pufler.dev/visits/pedrosouzax/)](https://badges.pufler.dev)
+Welcome to my github space! [![Visits Badge](https://badges.pufler.dev/visits/pedrosouzax)](https://badges.pufler.dev)
 
 
 
