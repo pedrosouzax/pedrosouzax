@@ -4,7 +4,7 @@ I'm Pedro! Welcome to my GitHub space! ![visitors](https://visitor-badge.glitch.
 
 - I'm an Electrical Engineering student ⚡:robot:
 - Interested in Data Science and Software Development 💻
-- I'm working as Data Analyst Intern @ Citrosuco 🍊
+- I'm working as Data Analyst @ Citrosuco 🍊
 
 Currently, I'm learning more about machine learning, big data and software development.
 
