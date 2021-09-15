@@ -2,7 +2,7 @@
 
 I'm Pedro! Welcome to my GitHub space! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosouzax)
 
-- I'm an Electrical Engineering ⚡:robot:
+- I'm an Electrical Engineer ⚡:robot:
 - Interested in Data Science and Software Development 💻
 - I'm working as Data Analyst @ Citrosuco 🍊
 
