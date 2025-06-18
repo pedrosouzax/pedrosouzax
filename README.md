@@ -1,10 +1,10 @@
 ### Hi there 👋,
 
-I'm Pedro! Welcome to my GitHub space! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrosouzax)
+I'm Pedro! Welcome to my GitHub space!
 
-- I'm an Electrical Engineer ⚡:robot:
+- I'm an Electrical Engineer ⚡
 - Interested in Data Science and Software Development 💻
-- I'm working as Data Analyst @ TSC
+- I'm working as Data Scientist @ Eve Air Mobility
 
 Currently, I'm learning more about machine learning, big data and software development.
 
